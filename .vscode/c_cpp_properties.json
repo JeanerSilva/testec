@@ -6,6 +6,7 @@
                 "${workspaceFolder}/**",
                 "C:/MinGW/lib/gcc/mingw32/5.3.0/include",
                 "C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++"
+               
             ],
             "defines": [
                 "_DEBUG",
